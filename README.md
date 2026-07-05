@@ -85,11 +85,15 @@ SchoolFeesPaymentTrackingSystem/
 5. Use the search function to find a student record.
 
 ## Screenshots
-<img width="956" height="504" alt="USER INTERFACE" src="https://github.com/user-attachments/assets/dd391981-58d9-47b0-8233-94bbed7caa49" />
-<img width="959" height="500" alt="STUDENT REPORT" src="https://github.com/user-attachments/assets/178bcc57-8f8b-461e-8e85-072f6b78d924" />
-<img width="940" height="495" alt="REGISTERING STUDENT" src="https://github.com/user-attachments/assets/015a702d-5ccc-474a-8a4b-8cee266f09ab" />
-<img width="947" height="505" alt="RECORD PAYMENT" src="https://github.com/user-attachments/assets/a6adef5e-75c1-4c21-82bd-6d657b610118" />
-<img width="953" height="505" alt="PAYMENT HISTORY" src="https://github.com/user-attachments/assets/44369660-d350-4975-bbaf-dbb4218bb8ae" />
+<img width="959" height="508" alt="Single Search" src="https://github.com/user-attachments/assets/f0374b76-e406-4121-b6f3-318ca9c52945" />
+<img width="948" height="500" alt="registrating student" src="https://github.com/user-attachments/assets/2781fde6-4d73-44ca-a2cc-1b2a56cd993d" />
+<img width="948" height="506" alt="Record Payment" src="https://github.com/user-attachments/assets/067333a5-e15e-4d9d-a07e-513cbc7e6ca3" />
+<img width="956" height="495" alt="Payment History" src="https://github.com/user-attachments/assets/92a315e7-993c-4aba-8662-939a07a5f852" />
+<img width="959" height="507" alt="ERROR MESSAGE" src="https://github.com/user-attachments/assets/1b7c05a4-3960-45db-8495-ea4bd5655472" />
+<img width="953" height="495" alt="Dashboard" src="https://github.com/user-attachments/assets/37baf683-c427-479a-87b6-50841d4c4b3e" />
+<img width="947" height="505" alt="All search" src="https://github.com/user-attachments/assets/0a6630a7-6721-463c-b648-ceca99505a10" />
+
+
 
 
 
