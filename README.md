@@ -97,7 +97,7 @@ SchoolFeesPaymentTrackingSystem/
 6. The payment status is displayed as Fully Paid, Outstanding, or Not Paid.
 7. Use the search function to find a student record.
 
-## Screenshots
+## ScreenShots
 <img width="959" height="508" alt="Single Search" src="https://github.com/user-attachments/assets/284b5d67-4997-4623-840c-591ff6d8fe14" />
 <img width="948" height="500" alt="Registering Student" src="https://github.com/user-attachments/assets/9717dda4-5633-425f-9986-9a085a7e190a" />
 <img width="948" height="506" alt="Record Payment" src="https://github.com/user-attachments/assets/798347e8-cb30-4fb3-91b6-d0c2a97d664b" />
